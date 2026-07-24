@@ -349,6 +349,10 @@ We encourage contributions from the community, so if you have a favorite develop
 - [Apache JMeter](https://jmeter.apache.org/): An open-source load testing tool used to measure the performance and functional behavior of web applications. Available on Windows, Linux, and macOS.
 - [AB](https://httpd.apache.org/docs/2.4/programs/ab.html): A command-line tool used to benchmark the performance of web servers by sending a high number of requests. Available for Unix-like systems.
 
+### Dev Tool Stack:
+
+- [DevToolStack](https://devtoolstack.io/) - 109+ free, client-side developer tools (formatters, converters, generators, text utilities) — nothing uploaded, everything runs in your browser.
+
 ## TODO
 
 - [ ] Filterable list
